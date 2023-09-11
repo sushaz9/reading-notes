@@ -6,7 +6,7 @@ Markdown is a handy tool that works like a bare bones version of HTML. It allows
 
 ## Why use Markdown? 
 
-Markdown appears to be a good starting point when getting to grips with languages like HTML as it allows you to format a page without any prior coding knowledge. It's designed to be easy to read and write and allows you to play around with basic formatting such as 
+Markdown appears to be a good starting point when getting to grips with languages like HTML as it allows you to format a page without any prior coding knowledge. It's designed to be easy to read and write and allows you to play around with basic formatting such as:
 
 # Headings
 
@@ -23,5 +23,8 @@ Markdown offers further advantages such as the flexibility of being able to use 
 
 - Versatile and easy to use tool
 - Has editing area and display area
+- Offers range of basic formatting
+- Free and accessable to all users with any level of coding knowledge
 - Can be more convenient as it's portable, WYSIWYG processors such as Word can lock your document if you don't have a certain platform/format 
 - 
+🤝
