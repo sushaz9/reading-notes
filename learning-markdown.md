@@ -27,7 +27,8 @@ using underscores
 Markdown offers further advantages such as the flexibility of being able to use it quickly and easily with any computing system, and is completely free to all users! 😎
 
 
-You can create links really easily too! For example, here is a link to the escape room I work at, [Breakout Liverpool](https://breakoutliverpool.com)
+You can create links really easily too! For example, here is a link to the escape room I work at, [Breakout Liverpool](https://breakoutliverpool.com
+by simply writing the link text in square brackets and the URL in rounded ones. 
 
 
 
