@@ -14,9 +14,10 @@ Markdown appears to be a good starting point when getting to grips with language
 - points 
 
 **bold text**
+
 _italics_
 
-Markdown offers further advantages such as the flexibility of being able to use it quickly and easily with any computing system, and is completely free to all users.
+Markdown offers further advantages such as the flexibility of being able to use it quickly and easily with any computing system, and is completely free to all users! 😎
 
 ## Summary
 
