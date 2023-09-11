@@ -9,13 +9,17 @@ Markdown is a handy tool that works like a bare bones version of HTML. It allows
 Markdown appears to be a good starting point when getting to grips with languages like HTML as it allows you to format a page without any prior coding knowledge. It's designed to be easy to read and write and allows you to play around with basic formatting such as:
 
 # Headings
+(using a single # key to create the largest headings, or more to create smaller headings )
 
 - bullet
 - points 
+(using the dash key) 
 
 **bold text**
+(using two asterisks')
 
 _italics_
+(using underscores)
 
 Markdown offers further advantages such as the flexibility of being able to use it quickly and easily with any computing system, and is completely free to all users! 😎
 
