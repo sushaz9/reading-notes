@@ -26,5 +26,5 @@ Markdown offers further advantages such as the flexibility of being able to use 
 - Offers range of basic formatting
 - Free and accessable to all users with any level of coding knowledge
 - Can be more convenient as it's portable, WYSIWYG processors such as Word can lock your document if you don't have a certain platform/format 
-- 
+
 🤝
